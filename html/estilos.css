@@ -43,19 +43,30 @@ nav a:hover {
 .sub1{
     margin-top: 50px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .Texsub1{
    
     margin-top: 10;
     font-family:'Times New Roman', Times, serif ;
-    font-size: 12px;
+    font-size: 18px;
 
 }
 
-.imagenduende{ 
-  
+.imagenduende{
+    
+    position: relative;
+    top: -180px;
+    left: 350px;
     display: block;
     margin: auto;  
+    
+}
+
+.sub2{
+
+    margin-top: 12px; 
+    font-family: 'Times New Roman', Times, serif;
+       
 }
