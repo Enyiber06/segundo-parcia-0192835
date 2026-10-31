@@ -33,17 +33,24 @@ nav a:hover {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: normal;
+    margin-left: 30px;
+    margin-top: 20px;
 
     color:rgb(0, 0, 10);
 }
 .flecha{
     margin-top: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
 }
 
 .sub1{
     margin-top: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+     margin-left: 30px;
+    margin-top: 20px;
 }
 
 .Texsub1{
@@ -51,6 +58,8 @@ nav a:hover {
     margin-top: 10;
     font-family:'Times New Roman', Times, serif ;
     font-size: 18px;
+     margin-left: 30px;
+    margin-top: 20px;
 
 }
 
@@ -61,12 +70,23 @@ nav a:hover {
     left: 350px;
     display: block;
     margin: auto;  
+
     
 }
 
 .sub2{
 
-    margin-top: 12px; 
+    margin-top: 50px; 
     font-family: 'Times New Roman', Times, serif;
-       
+    font-size: 20px;  
+     margin-left: 30px;
+    margin-top: 20px; 
+}
+.subtex2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+     margin-left: 30px;
+    margin-top: 20px;
+   
+
 }
