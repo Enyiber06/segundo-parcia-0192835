@@ -30,4 +30,26 @@ nav a:hover {
 .Texto1 {
     line-height: 1;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: normal;
+
+    color:rgb(0, 0, 10);
+}
+.flecha{
+    margin-top: 50px;
+}
+
+.sub1{
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.Texsub1{
+   
+    margin: 0;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 12px;
+
 }
