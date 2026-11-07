@@ -21,7 +21,7 @@ header h1 {
     margin: 0;
     font-family: 'heading-1', sans-serif;
     font-size: 50px;
-    margin-left:-20px;
+    margin-left: 20px;
 }
 
 nav a {
@@ -35,42 +35,42 @@ nav a:hover {
 
 .Texto1 {
     position: relative;
-        width: 200px;
+    width: 200px;
     margin-left: 30px;
     margin-top: 20px;
     font-family: 'heading-1', sans-serif;
 }
 
-.texInfo{
-    margin-top: -40px;
+.texInfo {
+    margin-top: 20px;
     font-family: 'inter', sans-serif;
     font-size: 28px;
     margin-left: 450px;
-    color:rgb(78, 78, 84);
+    color: rgb(78, 78, 84);
 }
 
 
-.flecha{
+.flecha {
     margin-top: 100px;
     margin-left: 30px;
-    
-    
+
+
 }
 
-.sub1{
+.sub1 {
     position: relative;
-    
+
     margin-left: 30px;
-    margin-top: 20px;
-    
-    
+    margin-top: 100px;
+
+
 }
 
-.sub1 h2{
+.sub1 h2 {
     margin: 0;
     line-height: 1.5;
     font-family: 'heading-2', sans-serif;
-    color:rgb(0, 0, 10);
+    color: rgb(0, 0, 10);
 }
 
 .Texsub1 {
@@ -78,6 +78,7 @@ nav a:hover {
     width: 300px;
     margin-left: 30px;
     margin-top: 20px;
+
 }
 
 .Texsub1 p {
@@ -86,84 +87,82 @@ nav a:hover {
     font-family: 'inter', sans-serif;
 }
 
-.imagenduende{
+.imagenduende {
+
+    margin-left: 450px;
+    margin-top: -200px;
+    margin-bottom: 50px;
     
+}
+
+
+.sub2 {
+
     position: relative;
-    top: -200px;
-    left: 450px;
-    display: block;
-    margin: auto; 
-    margin-top: 100px; 
-
-    
-}
-
-.sub2{
-
-    position: relative;    
     margin-left: 30px;
-    margin-top: 20px;
+    margin-top: 100px;
     font-family: 'heading-2', sans-serif;
-   
+
 }
-.subtex2{
+
+.subtex2 {
     position: relative;
     width: 300px;
     margin-left: 30px;
     margin-top: 20px
-   
-
 }
+
 .subtex2 p {
-     margin: 0;
+    margin: 0;
     line-height: 1.5;
     font-family: 'inter', sans-serif;
-    color:rgb(0, 0, 10);
-}
-.imagen2 {
-    
-    position: relative;
-    top: -200px;
-    left: 450px;
-    display: block;
-    margin: auto;  
-    margin-top: 100px;
-   
+    color: rgb(0, 0, 10);
 }
 
-.sub4{
-    position: relative;    
-    margin-left: 30px;
-    margin-top: 20px;
-    font-family: 'heading-2', sans-serif;
-   
+.imagen2 {
+
+    margin-left: 450px;
+    margin-top: -200px;
+    margin-bottom: 50px;
+
 }
-.subtex4{
+
+
+
+
+.sub4 {
+    position: relative;
+    margin-left: 30px;
+    margin-top: 100px;
+    font-family: 'heading-2', sans-serif;
+
+}
+
+.subtex4 {
     position: relative;
     width: 300px;
     margin-left: 30px;
     margin-top: 20px;
-   
+
 }
+
 .subtex4 p {
-     margin: 0;
+    margin: 0;
     line-height: 1.5;
     font-family: 'inter', sans-serif;
-    color:rgb(0, 0, 10);
+    color: rgb(0, 0, 10);
 }
+
 .imagen3 {
-    
-    position: relative;
-    top: -200px;
-    left: 450px;
-    display: block;
-    margin: auto;  
-    margin-top: 100px;
-   
+
+    margin-left: 450px;
+    margin-top: -200px;
+    margin-bottom: 0;
+
 }
 
 .footer {
-    background-color:none;
+    background-color: none;
     color: rgb(24, 24, 112);
     text-align: none;
     padding: 30px;
@@ -175,14 +174,14 @@ nav a:hover {
     display: flex;
     justify-content: right;
     gap: 30px;
-    
+
 }
 
 .footer a {
-    
+
     color: rgb(0, 0, 10);
     text-decoration: none;
-    
+
 }
 
 .footer a:hover {
@@ -191,5 +190,15 @@ nav a:hover {
 
 .footer p {
     font-size: 14px;
+
+}
+.saludo {
+    position: relative;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
     
 }
+
