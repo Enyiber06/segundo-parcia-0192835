@@ -274,3 +274,92 @@ nav a:hover {
     font-family:"Inter", sans-serif ;
     margin-left: 20px;
 }
+
+@media (min-width: 768px){
+    /* HEADER */
+    header {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 20px 40px;
+    }
+
+    header h1 {
+        font-size: 50px;
+    }
+
+    header nav {
+        gap: 25px;
+    }
+
+    /* TEXTOS */
+    .saludo,
+    .Texto1 {
+        margin-left: 30px;
+        margin-right: 0;
+    }
+
+    .texInfo {
+        margin-left: 30px;
+        width: 60%;
+        font-size: 28px;
+    }
+
+    /* SECCIONES */
+    .sub1,
+    .sub2,
+    .sub4 {
+        margin-left: 30px;
+    }
+
+    .Texsub1,
+    .subtex2,
+    .subtex4 {
+        margin-left: 30px;
+    }
+
+    .imagenduende,
+    .imagen2,
+    .imagen3 {
+        margin-left: 450px;
+        margin-top: -200px;
+    }
+
+    /* CONTENIDO */
+    .img12 {
+        width: 45%;
+        margin-left: 450px;
+        margin-top: 0;
+    }
+
+    .texp1 {
+        margin-top: -480px;
+        margin-left: 30px;
+    }
+
+    .texpart2 {
+        margin-left: 30px;
+    }
+
+    .text00,
+    .text01 {
+        flex-direction: row;
+        gap: 100px;
+        margin-left: 20px;
+    }
+
+    .finltex {
+        flex-direction: row;
+        gap: 8rem;
+        margin-left: 20px;
+    }
+
+    .Texmin {
+        margin-left: 26rem;
+    }
+
+    /* FOOTER */
+    .footer nav {
+        justify-content: flex-end;
+    } 
+}
+
